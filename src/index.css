@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Block.jsx CSS styles */
+.block {
+  width : 9vw;
+  height : 9vw;
+  position: relative;
+  margin: 0;
+}
+.color-green {
+  background-color: green;
+}
+.color-brown {
+  background-color: brown;
+}
+/* add a left margin if first  */
